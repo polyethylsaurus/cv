@@ -1,6 +1,6 @@
 ![CV and Resume](demo-preview.png)
 
-# isosafrasaurus's CV template
+# polyethylsaurus's CV template
 
 This is a simple LaTeX .sty file to help format CVs. Although there is only one command and one environment, they can be combined with native LaTeX features in many ways to create a versatile range of CVs. Two examples are provided.
 
